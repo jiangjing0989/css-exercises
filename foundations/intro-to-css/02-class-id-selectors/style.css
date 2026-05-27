@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.p-c {
+  background-color: #ffc0cb;
+  font-family: Verdana, "DegaVu Sans", sans-serif;
+}
+
+.div-1 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.p-fs {
+  font-size: 24px;
+}
+
+.div-2 {
+  background-color: #adff2f;
+  font-size: 24px;
+  font-weight: bold;
+}
